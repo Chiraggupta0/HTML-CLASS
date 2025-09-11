@@ -1,0 +1,59 @@
+HTML--
+
+image,anchor,form tag
+iframe,video,audio tag
+semantic tag
+
+
+CSS--
+
+box model
+display property
+position property
+flex box
+grid
+animation and transition
+
+
+JAVASCRIPT---
+
+variables
+hosting
+TDZ(temporal dead zone)
+types of functions
+array,string and object methods
+promise
+async and await
+prototype
+
+
+
+
+to diaplay boilerplate code press shift + 1 then enter
+
+<p> tag does not give space while displaying
+<pre> gives space while displaying it displays as it is on the screen while p 
+displays all code in one line.
+<strong> and <bold> are same just the difference is semantic and non semantic
+tag
+
+img is a tag and src is a attribute
+
+to add an image add that in the folder and after img src" give ./ and then select from pictures
+unsplash use to have free hd images
+if we want to open the anchor in new tab just write target="_blank"
+if the link is very big use alt +z
+
+name in text displays the name entered in the url
+
+label tag is used-- name=enter your name so when you click on name it takes 
+you to enter field
+
+in radio name attribute is used so that both of the values cant be checked at 
+once and value is used to show value in url 
+
+ques- create a form where there will be input field text email id password and
+ create 2 radio buttons 3 checkboxes . then create 1 input to select your 
+passport size photo. create 3 dropdown list create one range between 500 to 
+1500 and one submit button. when you click on the submit button the value 
+should be shown in the url
