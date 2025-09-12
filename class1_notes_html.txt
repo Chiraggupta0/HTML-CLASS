@@ -57,3 +57,16 @@ ques- create a form where there will be input field text email id password and
 passport size photo. create 3 dropdown list create one range between 500 to 
 1500 and one submit button. when you click on the submit button the value 
 should be shown in the url
+
+
+class-2
+
+
+in ol type will define the type of indent and start will tell where to start
+iframe---
+we can render any url in our own page
+in iframe we can also display youtube video by going to that video than 
+share option then click on embedded option then copy iframe code from it 
+and then paste it in vs code
+we can also display google form in it by going to form click on the 3 dots on
+the upper right side and the click embedded and copy paste in vs code
