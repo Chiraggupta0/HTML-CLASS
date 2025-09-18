@@ -1,0 +1,29 @@
+.box{
+    width:500px;
+    height:300px;
+    background-color: #7fffd4;
+    /* padding-top: 30px; */
+    /*  applicable for all the sides */
+/* padding:100px; */
+/*  50 px for top-down  and 100 px for left-right */
+    /* padding:50px 100px; */
+    text-align: center;
+    margin: 50px 100px;
+    /* border-width: 50px;
+    border-style: groove;
+    border-color: tomato; */
+
+    /* the above three can be written in one line */
+    border: 50px groove brown;
+    border-color: white green white orange;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-radius: 30% 70% 36% 64% / 30% 50% 50% 70% ;
+    border-radius:50%;
+    /* for circlw */
+
+
+}
+body{
+    margin: 0px;
+}

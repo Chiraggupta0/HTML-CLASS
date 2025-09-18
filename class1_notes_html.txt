@@ -69,4 +69,23 @@ in iframe we can also display youtube video by going to that video than
 share option then click on embedded option then copy iframe code from it 
 and then paste it in vs code
 we can also display google form in it by going to form click on the 3 dots on
-the upper right side and the click embedded and copy paste in vs code
+the upper right side and the click embedded and copy paste in vs 
+
+
+class-3
+
+Semantic and non semantic tags
+
+semantic tag-- semantic tag has some meaning for eg <nav>, <header>, <article>, <section> , <footer>, <main> etc
+
+non semantic tag-- non semantic tag has no meaning for eg -- <div> and <span> 
+
+difference between div and span 
+<div> is a block element and <span> is an inline element.
+
+block level element covers the entire width of the screen and the next element will appear on the next line.
+In inline element it will occupy the space as far the content requires.The next element will appear on the same line.
+
+task -- in css what is inline , internal and external css.
+-- css selectors(class,idand tag0)
+-- css box model.
