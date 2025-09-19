@@ -89,3 +89,7 @@ In inline element it will occupy the space as far the content requires.The next 
 task -- in css what is inline , internal and external css.
 -- css selectors(class,idand tag0)
 -- css box model.
+
+
+https://sp-krmu-source.github.io/CSS-Notes 
+THIS HAVE CSS NOTES
