@@ -93,3 +93,12 @@ task -- in css what is inline , internal and external css.
 
 https://sp-krmu-source.github.io/CSS-Notes 
 THIS HAVE CSS NOTES
+
+class -4
+
+box model
+ 1. static
+ 2. relative - parent
+ 3.absolute - child
+ 4.fixed
+ 5.sticky
